@@ -1,12 +1,12 @@
 {
- "v": "0.3.2",
- "f": "assets/a5efea30f7b7fc00.bin",
- "n": 92608,
- "h": "423f29c90c6e42a39e55d5fa837ef5851cf4e04b4cecbe948a1f5c951a5b079b",
- "s": 48019,
+ "v": "0.3.3",
+ "f": "assets/662ad1c9d4e3f8da.bin",
+ "n": 98640,
+ "h": "59481c8dc3193bebe7efc99f626b2ba1d48375e580206a35eb77d1aa5b7ce113",
+ "s": 54030,
  "notes": {
-  "ru": "Файл обновления теперь виден в «Все файлы» → XTApps → flibusta → files. Найденное обновление открывается сразу.",
-  "en": "The update file now appears in All Files → XTApps → flibusta → files. A found update opens right away.",
-  "kk": "Жаңарту файлы енді «Барлық файлдар» → XTApps → flibusta → files ішінде көрінеді. Табылған жаңарту бірден ашылады."
+  "ru": "Книги сохраняются с понятными именами: «Автор - Название.epub».",
+  "en": "Books are saved with readable names: \"Author - Title.epub\".",
+  "kk": "Кітаптар түсінікті атаумен сақталады: «Автор - Атауы.epub»."
  }
 }
